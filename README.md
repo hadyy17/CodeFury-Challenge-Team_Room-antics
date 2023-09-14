@@ -128,11 +128,9 @@ To start using the Automated Meeting Room Booking System, please refer to our Do
 
 ## Contribution Guidelines
 
-We encourage contributions from the open-source community to improve and enhance the system. If you're interested in contributing, please review our [Contribution Guidelines](link-to-contributing.md).
+We encourage contributions from the open-source community to improve and enhance the system. If you're interested in contributing, please contact **Team Lead**
 
-## License
 
-This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact Information
 
