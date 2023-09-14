@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.yourapp.models.Users.java&apos; to &apos;User.java&apos;&#x0D;&#x0A;- Original project: &apos;project&apos;&#x0D;&#x0A;- Original element: &apos;com.yourapp.models.Users.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.yourapp.models.User.java&apos;" description="Rename compilation unit &apos;Users.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/&lt;com.yourapp.models{Users.java" name="User.java" references="false" stamp="1694690993005" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\Pc\OneDrive\Documents\code-fury\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2250422554.index
+3254572008.index

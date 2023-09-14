@@ -1,0 +1,5 @@
+package com.meetingroombooking.factory;
+
+public class DaoFactory {
+
+}

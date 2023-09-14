@@ -1,0 +1,5 @@
+package com.meetingroombooking.model;
+
+public class User {
+
+}
