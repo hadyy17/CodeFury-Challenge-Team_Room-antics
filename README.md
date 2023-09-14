@@ -26,6 +26,10 @@ Meet the talented individuals behind Team Room-antics:
 
 The Automated Meeting Room Booking System is designed to automate and simplify the process of booking meeting rooms within a company. It empowers employees to search for and reserve meeting rooms based on their specific requirements, enhancing the overall efficiency of meetings and room allocation.
 
+## Flowchart
+![useful2](https://github.com/hadyy17/CodeFury-Challenge-Team_Room-antics/assets/80844103/b59807d4-01e8-4d6e-abdb-41982df8ec76)
+
+
 ## Description
 
 The system is structured around three types of users, each with distinct roles:
@@ -115,10 +119,12 @@ The system relies on a robust database to store and manage crucial information. 
 ## System Architecture
 
 The system leverages a combination of databases, backend APIs, and a user-friendly frontend to provide an intuitive experience for room booking and management.
+![useful1](https://github.com/hadyy17/CodeFury-Challenge-Team_Room-antics/assets/80844103/3d3eb110-78b7-4eba-b12a-fcdea3886cd3)
 
 ## Getting Started
 
-To start using the Automated Meeting Room Booking System, please refer to our [Documentation](link-to-documentation.md). for detailed instructions on installation, configuration, and usage.
+
+To start using the Automated Meeting Room Booking System, please refer to our Documentation. for detailed instructions on installation, configuration, and usage.
 
 ## Contribution Guidelines
 
