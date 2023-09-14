@@ -124,13 +124,14 @@ The system leverages a combination of databases, backend APIs, and a user-friend
 ## Getting Started
 
 
-To start using the Automated Meeting Room Booking System, please refer to our Documentation. for detailed instructions on installation, configuration, and usage.
+To start using the Automated Meeting Room Booking System, please refer to our Documentation for detailed instructions on installation, configuration, and usage.
+
+## Snapshot Initial Page
+![WhatsApp Image 2023-09-15 at 12 05 02 AM](https://github.com/hadyy17/CodeFury-Challenge-Team_Room-antics/assets/80844103/1a2d3308-ad3f-4939-ab58-b030961a2876)
 
 ## Contribution Guidelines
 
 We encourage contributions from the open-source community to improve and enhance the system. If you're interested in contributing, please contact **Team Lead**
-
-
 
 ## Contact Information
 
