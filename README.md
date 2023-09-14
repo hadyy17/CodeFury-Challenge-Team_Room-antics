@@ -13,7 +13,7 @@ The Automated Meeting Room Booking System is designed to streamline and simplify
 Meet the talented individuals behind Team Room-antics:
 
 1. **Team Lead:** Hady Khan
-2. Vrushali Nafadde
+2. Vrushali Nafade
 3. Yashmitha Poojary
 4. Pragati Bisen
 5. Ritika Malviya
